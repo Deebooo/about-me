@@ -38,7 +38,7 @@ export function App() {
                       href="#projects-personal"
                       className="hover:text-blue-600"
                     >
-                      Personal Projects
+                      Notable Personal Projects
                     </a>
                   </li>
                   <li>
