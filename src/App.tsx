@@ -96,14 +96,7 @@ export function App() {
                     Data Scientist - AI Technologist
                   </h2>
                   <p className="text-gray-600 mb-4">
-                    Data Scientist at ENGIE Digital & IT, passionate about
-                    driving innovation through data-driven solutions that fuel
-                    business decisions, enhance operational efficiency, and
-                    technological advancements.
-                  </p>
-                  <p className="text-gray-600 mb-5">
-                    Currently pursuing a Master's degree in Machine Learning for
-                    Data Science at Université Paris-Cité.
+                    Data Scientist at ENGIE Digital & IT, delivering transformative solutions through cutting-edge AI and digital transformation. Driven by operational excellence and forward-thinking innovation.
                   </p>
                   <div className="flex space-x-4">
                     <a
@@ -459,12 +452,6 @@ const personalProjects = [
       "Construction of the robot's hardware involving 3D printing, servo control, sensor integration",
     ],
     techStack: "Python, PyTorch, LangChain, LangGraph, LangSmith, Hugging Face",
-    links: [
-      {
-        text: "GitHub",
-        url: "https://github.com/YourRepoLinkHere",
-      },
-    ],
   },
   {
     title: "Greg - Personal AI Assistant",
@@ -512,6 +499,10 @@ const personalProjects = [
         text: "Check out the results",
         url: "https://lnkd.in/eHAFZ6j5",
       },
+      {
+        text: "GitHub",
+        url: "https://github.com/Deebooo/satellite-image-colorization",
+      },
     ],
   },
   {
@@ -531,6 +522,10 @@ const personalProjects = [
       {
         text: "LinkedIn",
         url: "https://www.linkedin.com/posts/samy-khelil-861a8a1a9_deeplearning-geoai-datascience-activity-7191549681041059840-yvyE",
+      },
+      {
+        text: "GitHub",
+        url: "https://github.com/Deebooo/urbanization-impact",
       },
     ],
   },
